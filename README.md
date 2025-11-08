@@ -7,11 +7,6 @@ It allows users to input two numbers, choose an arithmetic operation (add, subtr
 
 ---
 
-## 👤 Developer Information
-**Name:** Abdelrhman Hamdy  
-**ID:** 202500123  
-**Faculty:** Faculty of Computer Science, Alamein International University  
-
 ---
 
 ## 🚀 Features
@@ -33,4 +28,4 @@ It allows users to input two numbers, choose an arithmetic operation (add, subtr
 ## 💻 How to Run
 1. Download or clone this repository:
    ```bash
-   git clone https://github.com/your-username/aiu-calculator-project.git
+   git clone https://github.com/kamel74/aiu-calculator-project.git
